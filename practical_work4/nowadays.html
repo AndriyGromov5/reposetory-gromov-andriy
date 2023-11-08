@@ -4,6 +4,19 @@
     <meta charset="UTF-8">
     <title>Таблиця</title>
     <style>
+      #list{
+        text-align: center;
+      }
+      #desert{
+        text-align: center;
+      }
+      .back{
+        font-style: italic;
+      }
+      #pib{
+        text-align: center;
+        font-size: 22px;
+      }
      ul {
 			list-style-type:none;
 			padding:0
@@ -28,9 +41,9 @@
     </style>
 </head>
 <body>  
-    <h1>Сьогодення Громов Андрій Олександрович</h1>
-    <a href=index.html>Назад на головну</a>
-    <h2>Мій типовий список покупок</h2>
+    <h1 id="pib">Сьогодення Громов Андрій Олександрович</h1>
+    <a href=index.html class="back">Назад на головну</a>
+    <h2 id="list">Мій типовий список покупок</h2>
     <ul>Молочні продукти:
    <li> Сир</li>
    <li>  Молоко</li>
@@ -45,7 +58,7 @@
     <li> Яблука</li>
     <li>Виноград</li>
 </ul> 
-  <p1>  Мій улюблений десерт(булочки синабони):</p1> 
+  <h3 id="desert">  Мій улюблений десерт(булочки синабони):</h3> 
 <ol>Приготувати тісто:
 <li>300 г борошна </li>
 <li>стакан молока </li>
