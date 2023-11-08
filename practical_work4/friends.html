@@ -4,6 +4,26 @@
     <meta charset="UTF-8">
     <title>Таблиця</title>
     <style>
+        .phone{
+            text-align: right;
+        }
+        #zag{
+            text-align: center;
+            background-color: green;
+            color: white;
+            font-weight: 700;
+        }
+
+        .myfriend{
+            text-align: center;
+        }
+        #backmain{
+            font-style: italic;
+        }
+        #friend{
+            text-align: center;
+            font-size: 22px;
+        }
         table {
 		border-collapse: collapse;
 		width:100%;
@@ -19,14 +39,14 @@
     </style>
 </head>
 <body>  
-    <h1>Друзі Громов Андрій Олександрович</h1>
-    <a href=index.html>Назад на головну</a>
-    <h2>Мої друзі</h2>
+    <h1 id="friend">Друзі Громов Андрій Олександрович</h1>
+    <a href=index.html id="backmain">Назад на головну</a>
+    <h2 class="myfriend">Мої друзі</h2>
 
    <table>
     <tbody>
     <tr>
-        <td>Ім`я</td>
+        <td id="zag">Ім`я</td>
         <td>Влад</td>
         <td>Денис</td>
         <td>Влад</td>
@@ -34,7 +54,7 @@
         <td>Володимир</td>
     </tr>
     <tr>
-        <td>Прізвище</td>
+        <td id="zag">Прізвище</td>
         <td>Івноюк</td>
         <td>Гошовський</td>
         <td>Данилейчук</td>
@@ -42,7 +62,7 @@
         <td>Палагнюк</td>
     </tr>
  <tr>
-    <td>Рік народження</td>
+    <td id="zag">Рік народження</td>
     <td>2005</td>
     <td>2005</td>
     <td>2006</td>
@@ -52,15 +72,15 @@
  </tr>
 
  <tr>
-    <td>Адреса проживання</td>
+    <td id="zag">Адреса проживання</td>
     <td>вул.Петлюри 5</td>
     <td>вул.Б.Хмельницького</td>
     <td>вул.Т.Шевченка</td>
     <td>вул.Григорія Сковороди</td>
     <td>вул.Лесі Українки</td>
  </tr>
- <tr>
-    <td>Контактний телефон</td>
+ <tr class="phone">
+    <td id="zag">Контактний телефон</td>
     <td>0997351384</td>
     <td>0678324529</td>
     <td>0985436274</td>
