@@ -1,9 +1,20 @@
 div{
     float: left;
-    background-color: aquamarine    ;
+       ;
 }
 h1{
     text-align: center;
+}
+.col-lg-3{
+    background-color: aquamarine;
+
+}
+.col-md-6{
+    background-color: aquamarine;
+}
+.col-sd-12{
+    background-color: aquamarine;
+
 }
 
 .row {  
