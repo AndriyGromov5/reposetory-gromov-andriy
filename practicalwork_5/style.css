@@ -1,21 +1,16 @@
-div{
-    float: left;
-       ;
-}
+
+
 h1{
+    font-size: larger;
     text-align: center;
+    font-style: initial;
+    margin-bottom: 20px;
 }
-.col-lg-3{
+.col-md-6, .col-lg-3, .col-sd-12 {
     background-color: aquamarine;
 
 }
-.col-md-6{
-    background-color: aquamarine;
-}
-.col-sd-12{
-    background-color: aquamarine;
 
-}
 
 .row {  
     width: 100%;
