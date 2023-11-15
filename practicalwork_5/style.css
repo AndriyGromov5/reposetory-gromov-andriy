@@ -1,4 +1,5 @@
 .main{
+background-color: aquamarine;
     margin-left:10px;
     margin-right:10px;
     margin-bottom:20px;
@@ -16,9 +17,8 @@ h1{
     font-style: initial;
     margin-bottom: 20px;
 }
-.col-md-6, .col-lg-3, .col-sd-12 {
-    background-color: aquamarine;
-
+.main p{
+        padding: 15px;
 }
 
 
