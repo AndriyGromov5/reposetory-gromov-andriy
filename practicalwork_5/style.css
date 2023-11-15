@@ -1,9 +1,11 @@
-
+div{
+    background-color: aquamarine    ;
+}
 h1{
     text-align: center;
 }
 
-.row {
+.row {  
     width: 100%;
     }
     /* Large devices */
