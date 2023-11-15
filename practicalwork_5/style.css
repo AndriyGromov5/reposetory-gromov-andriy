@@ -1,5 +1,9 @@
 
-
+.text1, .text2, .text3{
+    background-color: yellow;
+    color: blueviolet;
+    float: right;
+}
 h1{
     font-size: x-large;
     text-align: center;
