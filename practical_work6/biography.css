@@ -1,0 +1,57 @@
+#first{
+    background-color: rgb(247, 161, 175);   
+    color: blue ;
+   }
+   #second{
+    background-color: green;   
+    color: white ;
+   }#third{
+    background-color: blue;   
+    color: gold;
+   }
+   #fourth{
+    background-color: black;   
+    color: red;
+   } 
+   #fifth{
+    background-color:black;   
+    color: white;
+   }
+   #uverh{
+       text-transform: uppercase;
+   }
+
+   .dozm{
+       font-weight: 700;
+   }
+   #section1{
+       font-size: 120%;
+   }
+
+   body{
+       font-size: 120%;
+   }
+
+   #up{
+       text-align: center;
+       font-size: 22px;
+       font-size: 120%;
+   }
+   #kurs{
+       font-style: italic;
+   }
+   #zmist{
+       text-align: center;
+       font-size: 120%;
+   }
+li {
+   border: 5px solid blue ;
+}
+   li:hover{
+       color:magenta;
+       background-color: magenta;
+   }
+   li:active{
+color:yellow;
+background-color: yellow;
+}

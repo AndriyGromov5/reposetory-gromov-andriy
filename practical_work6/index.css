@@ -1,0 +1,33 @@
+#parag{
+    font-size:120%
+}
+h1{
+    text-align: center;
+ font-size: 24px;
+}
+#bio:link{
+color:#19ada1;
+}
+
+#bio:visited {
+color:#6b6b6b;
+}
+#nova:link{
+color:blue;
+}
+#nova:visited {
+color:chartreuse;
+
+}
+#friend:link{
+color:darkorchid;
+}
+#friend:visited{
+color:deeppink;
+}
+#gallery:link{
+color:orange;
+}
+#gallery:visited{
+color:crimson;
+}
