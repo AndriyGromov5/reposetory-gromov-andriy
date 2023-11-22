@@ -31,14 +31,12 @@ color:orange;
 #gallery:visited{
 color:crimson;
 }
+.row {
+    display: flex;
+  }
+  
  /* Large devices */
- @media (min-width: 992px) {
-    .row {
-        display: flex;
-      }
-      .flex-item {
-        margin: 10px;
-      }
+ @media (min-width: 992px) {  
     .col-md-1 {
     width: 8.33%;
     }
@@ -78,13 +76,6 @@ color:crimson;
     }
     /* Medium devices */
 @media (min-width: 768px) and (max-width: 991px) {
-    .row {
-        display: flex;
-        flex-wrap: wrap;
-      }
-      .flex-item {
-        margin: 10px;
-      }
       .col-md-1 {
         width: 8.33%;
         }
