@@ -37,11 +37,15 @@ color:orange;
 #gallery:visited{
 color:crimson;
 }
+.row {
+    display: flex;  
 
+  }
   
   /* Large devices */
   @media (min-width: 992px) {
     .flex-item {
+        display: flex;
     flex-direction: row;
     justify-content: space-around;
     
