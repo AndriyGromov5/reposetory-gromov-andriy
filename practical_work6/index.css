@@ -131,7 +131,7 @@ color:crimson;
     @media (max-width:  767px) {
       .col-mn-1, .col-mn-2, .col-mn-3, .col-mn-4, .col-mn-5, .col-mn-6, .col-mn-7, .col-mn-8,
       .col-mn-9, .col-mn-10, .col-mn-11, .col-mn-12 {
-      
+      flex-direction: column;
       
       padding: 5px;
       }
