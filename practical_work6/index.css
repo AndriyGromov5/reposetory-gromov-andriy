@@ -38,7 +38,8 @@ color:orange;
 color:crimson;
 }
 .row {
-    padding: 5px;
+    display: flex;
+    
   }
   
   /* Large devices */
