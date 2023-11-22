@@ -37,10 +37,7 @@ color:orange;
 #gallery:visited{
 color:crimson;
 }
-.row {
-    display: flex;
 
-  }
   
   /* Large devices */
   @media (min-width: 992px) {
@@ -90,7 +87,7 @@ color:crimson;
     /* Medium devices */
     @media (min-width: 768px) and (max-width: 991px) {
         .flex-item  {
-   
+    
     flex-wrap: wrap;
    
 
