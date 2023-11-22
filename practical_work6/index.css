@@ -31,3 +31,22 @@ color:orange;
 #gallery:visited{
 color:crimson;
 }
+ /* Large devices */
+ @media (min-width: 992px) {
+    .flex-container {
+        display: flex;
+      }
+      .flex-item {
+        margin: 10px;
+      }
+    }
+    /* Medium devices */
+@media (min-width: 768px) and (max-width: 991px) {
+    .flex-container {
+        display: flex;
+        
+      }
+      .flex-item {
+        margin: 10px;
+      }
+    }
