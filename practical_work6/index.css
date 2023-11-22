@@ -39,7 +39,7 @@ color:crimson;
 }
 .row {
     display: flex;
-    
+
   }
   
   /* Large devices */
@@ -48,7 +48,7 @@ color:crimson;
     .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     flex-direction: row;
     justify-content: space-around;
-    padding: 5px;
+    
     }
     .col-lg-1 {
     width: 8.33%;
@@ -94,7 +94,7 @@ color:crimson;
     .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
    
     flex-wrap: wrap;
-    padding: 5px;
+   
 
     }
     .col-md-1 {
