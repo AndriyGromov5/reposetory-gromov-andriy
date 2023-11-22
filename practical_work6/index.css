@@ -139,7 +139,6 @@ color:crimson;
       .col-mn-9, .col-mn-10, .col-mn-11, .col-mn-12 {
       flex-direction: column;
       
-      padding: 5px;
       }
       .col-mn-1 {
       width: 8.33%;
