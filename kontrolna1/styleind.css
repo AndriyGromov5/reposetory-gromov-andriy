@@ -1,15 +1,19 @@
 #first{
     background-color: red;
+    color: black;
 
 }
 #second{    
     background-color: yellow;
+    color: blue;
 }
 #third{
     background-color: blueviolet;
+    color: white;
 }
 #fourth{
     background-color: greenyellow;
+    color: black;
 }
 .zag{
     border: 2px;
