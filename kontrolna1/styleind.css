@@ -45,6 +45,7 @@
     background-color: green;
     color: black;
 .parent{
+    width: 100%;
     display: flex; 
     justify-content: flex-end;
     align-items: flex-end;
