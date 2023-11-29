@@ -1,0 +1,29 @@
+#first{
+    background-color: red;
+
+}
+#second{
+    background-color: yellow;
+}
+#third{
+    background-color: blueviolet;
+}
+#fourth{
+    background-color: greenyellow;
+}
+.zag{
+    border: 2px;
+    border-width: 25px;
+}
+#text1{
+    background-color: red;
+}
+#list2{
+    background-color: yellow;
+}
+#tab3{
+    background-color: blueviolet;
+}
+#zob4{
+    background-color: greenyellow;
+}
