@@ -27,3 +27,12 @@
 #zob4{
     background-color: greenyellow;
 }
+.parent{
+    position: relative;
+}
+.child{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 10px;
+}
