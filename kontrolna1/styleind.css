@@ -1,38 +1,47 @@
 #first{
+    font-size: 100%;
     background-color: red;
     color: black;
 
 }
 #second{    
+    font-size: 100%;
     background-color: yellow;
     color: blue;
 }
 #third{
+    font-size: 100%;
     background-color: blueviolet;
     color: white;
 }
 #fourth{
+    font-size: 100%;
     background-color: greenyellow;
     color: black;
 }
 .zag{
+    font-size: 120%;
     border: 2px;
     border-width: 25px;
 
 }
 #text1{
+    font-size: 120%;
     background-color: rgb(145, 5, 5);
     color: aqua;
 }
 #list2{
+    font-size: 120%;
     background-color: orange;
     color: yellow;
 }
 #tab3{
+    font-size: 120%;
     color: azure;
     background-color: purple;
 }
 #zob4{
+    font-size: 120%;
     background-color: green;
     color: black;
 .parent{
