@@ -14,19 +14,23 @@
 .zag{
     border: 2px;
     border-width: 25px;
+
 }
 #text1{
     background-color: rgb(145, 5, 5);
+    color: aqua;
 }
 #list2{
     background-color: orange;
+    color: yellow;
 }
 #tab3{
+    color: azure;
     background-color: purple;
 }
 #zob4{
     background-color: green;
-}
+    color: black;
 .parent{
     display: flex; 
     justify-content: flex-end;
