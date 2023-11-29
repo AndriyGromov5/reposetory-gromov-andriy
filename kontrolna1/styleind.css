@@ -16,7 +16,7 @@
     border-width: 25px;
 }
 #text1{
-    border-color: rgb(145, 5, 5);
+    background-color: rgb(145, 5, 5);
 }
 #list2{
     background-color: orange;
