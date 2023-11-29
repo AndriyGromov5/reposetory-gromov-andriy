@@ -27,3 +27,11 @@
 #zob4{
     background-color: green;
 }
+.parent{
+    display: flex; 
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.child{
+    margin: 10px;
+}
