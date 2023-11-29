@@ -30,8 +30,7 @@
 .parent{
     display: flex; 
     justify-content: flex-end;
-    align-items: flex-end; 
-    height: 200px; 
+    align-items: flex-end;
 }
 .child{
     margin: 10px;
